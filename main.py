@@ -1,1 +1,1 @@
-import lib.core.output as output
+import lib.core.animations as animations
